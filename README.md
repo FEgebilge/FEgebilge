@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ege</h1>
-<h3 align="center">Computer Engineering Student at [Yaşar University](https://www.yasar.edu.tr/en/)</h3>
+<h3 align="center">Computer Engineering Student at <a href="https://www.yasar.edu.tr/en/">Yaşar University</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fegebilge&label=Profile%20views&color=0e75b6&style=flat" alt="fegebilge" /> </p>
 
