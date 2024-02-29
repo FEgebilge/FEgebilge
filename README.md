@@ -4,8 +4,9 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=fegebilge&label=Profile%20views&color=0e75b6&style=flat" alt="fegebilge" /> </p>
   
   - 🌱 I’m currently learning **Artificial Neural Networks**
-  - 🎼 Fun Fact: I play guitar and compose music [SoundCloud](https://on.soundcloud.com/aQTxe)
   - 📱 Have foundational understanding of SwiftUI for iOS app development
+  - 🎼 Fun Fact: I play guitar and compose music [SoundCloud](https://on.soundcloud.com/aQTxe)
+  
   <hr>
   <h3 align="left">Connect with me</h3>
   <p align="left">
