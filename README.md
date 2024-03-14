@@ -2,10 +2,13 @@
   <h3 align="left">Computer Engineering Student at <a href="https://www.yasar.edu.tr/en/">Yaşar University</a></h3>
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=fegebilge&label=Profile%20views&color=0e75b6&style=flat" alt="fegebilge" /> </p>
-  
+
+  - 🤔 Deeply motivated to self-improve in **Machine learning**
   - 🌱 I’m currently learning **Artificial Neural Networks**
+  - ⚰️ I'm taking **Embedded Systems** course
   - 📱 Have foundational understanding of SwiftUI for iOS app development
-  - 🎼 Fun Fact: I play guitar and compose music [SoundCloud](https://on.soundcloud.com/aQTxe)
+  - 🎮 Developed a game and published it on steam with a team
+  - 🎼 Fun Fact: I play guitar and compose music  [Spotify](https://open.spotify.com/artist/4nYroqAAEzVgvqSMiDNH2S?si=VVT_GbiXQQyL-z7MmvbniQ) |  [SoundCloud](https://on.soundcloud.com/aQTxe)
   
   <hr>
   <h3 align="left">Connect with me</h3>
